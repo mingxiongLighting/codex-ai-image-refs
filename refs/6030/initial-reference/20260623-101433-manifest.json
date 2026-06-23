@@ -1,0 +1,20 @@
+[
+  {
+    "label": "product",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-06-23-6030-stage-light-images/reference/6030-product.png",
+    "repo_path": "refs/6030/initial-reference/20260623-101433-01-product-75b3da4c55.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/6030/initial-reference/20260623-101433-01-product-75b3da4c55.png"
+  },
+  {
+    "label": "battery-box",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-06-23-6030-stage-light-images/reference/6030-battery-box.png",
+    "repo_path": "refs/6030/initial-reference/20260623-101433-02-battery-box-8a7f421239.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/6030/initial-reference/20260623-101433-02-battery-box-8a7f421239.png"
+  },
+  {
+    "label": "rgb-light-effect",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-06-23-6030-stage-light-images/reference/6030-rgb-light-effect.png",
+    "repo_path": "refs/6030/initial-reference/20260623-101433-03-rgb-light-effect-f049ab0530.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/6030/initial-reference/20260623-101433-03-rgb-light-effect-f049ab0530.png"
+  }
+]
