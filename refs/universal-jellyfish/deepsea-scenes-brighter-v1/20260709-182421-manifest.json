@@ -1,0 +1,38 @@
+[
+  {
+    "label": "product-trapezoid-black",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/output/packaging/universal-jellyfish/assets/current-refs/01-round-black-trapezoid.png",
+    "repo_path": "refs/universal-jellyfish/deepsea-scenes-brighter-v1/20260709-182421-01-product-trapezoid-black-2af9cc8194.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/universal-jellyfish/deepsea-scenes-brighter-v1/20260709-182421-01-product-trapezoid-black-2af9cc8194.png"
+  },
+  {
+    "label": "product-cloud-white",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/output/packaging/universal-jellyfish/assets/current-refs/02-cloud-white.png",
+    "repo_path": "refs/universal-jellyfish/deepsea-scenes-brighter-v1/20260709-182421-02-product-cloud-white-369c4ac0ba.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/universal-jellyfish/deepsea-scenes-brighter-v1/20260709-182421-02-product-cloud-white-369c4ac0ba.png"
+  },
+  {
+    "label": "product-round-black",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/output/packaging/universal-jellyfish/assets/current-refs/03-round-black-rectbase.png",
+    "repo_path": "refs/universal-jellyfish/deepsea-scenes-brighter-v1/20260709-182421-03-product-round-black-b19ae6ff7a.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/universal-jellyfish/deepsea-scenes-brighter-v1/20260709-182421-03-product-round-black-b19ae6ff7a.png"
+  },
+  {
+    "label": "front-deepsea-style",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/output/packaging/universal-jellyfish/assets/ai-scenes/v16-front-deepsea-trapezoid.task-67756916.png",
+    "repo_path": "refs/universal-jellyfish/deepsea-scenes-brighter-v1/20260709-182421-04-front-deepsea-style-ecf3ab5bd3.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/universal-jellyfish/deepsea-scenes-brighter-v1/20260709-182421-04-front-deepsea-style-ecf3ab5bd3.png"
+  },
+  {
+    "label": "dark-bedroom-composition",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/output/packaging/universal-jellyfish/assets/ai-scenes/v21-back-square-bedroom-deepsea-highlight.task-67892501.png",
+    "repo_path": "refs/universal-jellyfish/deepsea-scenes-brighter-v1/20260709-182421-05-dark-bedroom-composition-3ec4b236f2.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/universal-jellyfish/deepsea-scenes-brighter-v1/20260709-182421-05-dark-bedroom-composition-3ec4b236f2.png"
+  },
+  {
+    "label": "dark-desktop-composition",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/output/packaging/universal-jellyfish/assets/ai-scenes/v21-back-square-desktop-deepsea-highlight.task-67892504.png",
+    "repo_path": "refs/universal-jellyfish/deepsea-scenes-brighter-v1/20260709-182421-06-dark-desktop-composition-e302a263dd.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/universal-jellyfish/deepsea-scenes-brighter-v1/20260709-182421-06-dark-desktop-composition-e302a263dd.png"
+  }
+]
