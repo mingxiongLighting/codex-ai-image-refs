@@ -1,0 +1,32 @@
+[
+  {
+    "label": "product-trapezoid-black",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/output/packaging/universal-jellyfish/assets/current-refs/01-round-black-trapezoid.png",
+    "repo_path": "refs/universal-jellyfish/deepsea-sides-v1/20260709-165115-01-product-trapezoid-black-2af9cc8194.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/universal-jellyfish/deepsea-sides-v1/20260709-165115-01-product-trapezoid-black-2af9cc8194.png"
+  },
+  {
+    "label": "product-cloud-white",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/output/packaging/universal-jellyfish/assets/current-refs/02-cloud-white.png",
+    "repo_path": "refs/universal-jellyfish/deepsea-sides-v1/20260709-165115-02-product-cloud-white-369c4ac0ba.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/universal-jellyfish/deepsea-sides-v1/20260709-165115-02-product-cloud-white-369c4ac0ba.png"
+  },
+  {
+    "label": "product-round-black",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/output/packaging/universal-jellyfish/assets/current-refs/03-round-black-rectbase.png",
+    "repo_path": "refs/universal-jellyfish/deepsea-sides-v1/20260709-165115-03-product-round-black-b19ae6ff7a.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/universal-jellyfish/deepsea-sides-v1/20260709-165115-03-product-round-black-b19ae6ff7a.png"
+  },
+  {
+    "label": "current-selector-layout",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/output/packaging/universal-jellyfish/assets/ai-scenes/v7-side-selector-three-white-refs-only.task-66582076.png",
+    "repo_path": "refs/universal-jellyfish/deepsea-sides-v1/20260709-165115-04-current-selector-layout-ba4dcf90fc.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/universal-jellyfish/deepsea-sides-v1/20260709-165115-04-current-selector-layout-ba4dcf90fc.png"
+  },
+  {
+    "label": "deepsea-side-style",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/output/packaging/fan-jellyfish/assets/side-left-fan-80x228mm-300dpi.png",
+    "repo_path": "refs/universal-jellyfish/deepsea-sides-v1/20260709-165115-05-deepsea-side-style-ccc5f98104.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/universal-jellyfish/deepsea-sides-v1/20260709-165115-05-deepsea-side-style-ccc5f98104.png"
+  }
+]
