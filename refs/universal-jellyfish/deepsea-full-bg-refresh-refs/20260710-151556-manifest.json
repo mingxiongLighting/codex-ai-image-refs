@@ -1,0 +1,44 @@
+[
+  {
+    "label": "front-current",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/output/packaging/universal-jellyfish/assets/ai-scenes/v16-front-deepsea-trapezoid.task-67756916.png",
+    "repo_path": "refs/universal-jellyfish/deepsea-full-bg-refresh-refs/20260710-151556-01-front-current-ecf3ab5bd3.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/universal-jellyfish/deepsea-full-bg-refresh-refs/20260710-151556-01-front-current-ecf3ab5bd3.png"
+  },
+  {
+    "label": "side-selector-current",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/output/packaging/universal-jellyfish/assets/ai-scenes/v20-side-selector-deepsea-integrated-rimlit.task-67845479.png",
+    "repo_path": "refs/universal-jellyfish/deepsea-full-bg-refresh-refs/20260710-151556-02-side-selector-current-1e7e67dfdb.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/universal-jellyfish/deepsea-full-bg-refresh-refs/20260710-151556-02-side-selector-current-1e7e67dfdb.png"
+  },
+  {
+    "label": "back-bg-current",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/output/packaging/universal-jellyfish/assets/ai-scenes/v22-back-panel-deepsea-bg-fallback-no-frames.png",
+    "repo_path": "refs/universal-jellyfish/deepsea-full-bg-refresh-refs/20260710-151556-03-back-bg-current-ee5b8f45ea.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/universal-jellyfish/deepsea-full-bg-refresh-refs/20260710-151556-03-back-bg-current-ee5b8f45ea.png"
+  },
+  {
+    "label": "back-bedroom-current",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/output/packaging/universal-jellyfish/assets/ai-scenes/v24-back-square-bedroom-deepsea-brighter.task-67923177.png",
+    "repo_path": "refs/universal-jellyfish/deepsea-full-bg-refresh-refs/20260710-151556-04-back-bedroom-current-f45e25665d.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/universal-jellyfish/deepsea-full-bg-refresh-refs/20260710-151556-04-back-bedroom-current-f45e25665d.png"
+  },
+  {
+    "label": "back-desktop-current",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/output/packaging/universal-jellyfish/assets/ai-scenes/v24-back-square-desktop-deepsea-brighter.task-67923203.png",
+    "repo_path": "refs/universal-jellyfish/deepsea-full-bg-refresh-refs/20260710-151556-05-back-desktop-current-b034e989ca.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/universal-jellyfish/deepsea-full-bg-refresh-refs/20260710-151556-05-back-desktop-current-b034e989ca.png"
+  },
+  {
+    "label": "top-flap-current",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/output/packaging/universal-jellyfish/assets/ai-scenes/v21-top-flap-deepsea-bg-cropped-ratio.png",
+    "repo_path": "refs/universal-jellyfish/deepsea-full-bg-refresh-refs/20260710-151556-06-top-flap-current-18304f3018.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/universal-jellyfish/deepsea-full-bg-refresh-refs/20260710-151556-06-top-flap-current-18304f3018.png"
+  },
+  {
+    "label": "new-deepsea-style-bg",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/output/packaging/universal-jellyfish/assets/ai-scenes/v28-side-manual-deepsea-new-bg-only.task-68684479.png",
+    "repo_path": "refs/universal-jellyfish/deepsea-full-bg-refresh-refs/20260710-151556-07-new-deepsea-style-bg-bfc8698165.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/universal-jellyfish/deepsea-full-bg-refresh-refs/20260710-151556-07-new-deepsea-style-bg-bfc8698165.png"
+  }
+]
