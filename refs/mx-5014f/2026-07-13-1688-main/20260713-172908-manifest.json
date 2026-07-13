@@ -1,0 +1,14 @@
+[
+  {
+    "label": "audited-reference",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-07-13-mx5014f-1688-main-images/source/MX-5014F-1688-audited-reference.jpg",
+    "repo_path": "refs/mx-5014f/2026-07-13-1688-main/20260713-172908-01-audited-reference-01f6075d73.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/mx-5014f/2026-07-13-1688-main/20260713-172908-01-audited-reference-01f6075d73.jpg"
+  },
+  {
+    "label": "user-reference",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-07-13-mx5014f-1688-main-images/source/MX-5014F-user-reference.png",
+    "repo_path": "refs/mx-5014f/2026-07-13-1688-main/20260713-172908-02-user-reference-6da348b6d3.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/mx-5014f/2026-07-13-1688-main/20260713-172908-02-user-reference-6da348b6d3.png"
+  }
+]
