@@ -1,0 +1,20 @@
+[
+  {
+    "label": "light-gray-white-product",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-08-07-mx-8008-domestic-images/source/MX-8008-浅灰白底图.png",
+    "repo_path": "refs/mx-8008/domestic-1688/20260807-105356-01-light-gray-white-product-0f55e84748.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/mx-8008/domestic-1688/20260807-105356-01-light-gray-white-product-0f55e84748.png"
+  },
+  {
+    "label": "black-body-reference",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-08-07-mx-8008-domestic-images/source/MX-8008-黑色实物参考.jpg",
+    "repo_path": "refs/mx-8008/domestic-1688/20260807-105356-02-black-body-reference-f5c1e3b08d.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/mx-8008/domestic-1688/20260807-105356-02-black-body-reference-f5c1e3b08d.jpg"
+  },
+  {
+    "label": "inline-switch",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-08-07-mx-8008-domestic-images/source/MX-8008-线控开关.jpg",
+    "repo_path": "refs/mx-8008/domestic-1688/20260807-105356-03-inline-switch-47f12d0024.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/mx-8008/domestic-1688/20260807-105356-03-inline-switch-47f12d0024.jpg"
+  }
+]
