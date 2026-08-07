@@ -1,0 +1,38 @@
+[
+  {
+    "label": "01-black-short-narrow",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-08-07-lava-lamp-white-background/references/01-black-short-narrow.jpg",
+    "repo_path": "refs/lava-lamp-multi-variants/2026-08-07-white-background/20260807-102054-01-01-black-short-narrow-17af06c91b.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/lava-lamp-multi-variants/2026-08-07-white-background/20260807-102054-01-01-black-short-narrow-17af06c91b.jpg"
+  },
+  {
+    "label": "02-light-gray-tall-narrow",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-08-07-lava-lamp-white-background/references/02-light-gray-tall-narrow.jpg",
+    "repo_path": "refs/lava-lamp-multi-variants/2026-08-07-white-background/20260807-102054-02-02-light-gray-tall-narrow-c26f8170f3.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/lava-lamp-multi-variants/2026-08-07-white-background/20260807-102054-02-02-light-gray-tall-narrow-c26f8170f3.jpg"
+  },
+  {
+    "label": "03-black-tall-narrow",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-08-07-lava-lamp-white-background/references/03-black-tall-narrow.jpg",
+    "repo_path": "refs/lava-lamp-multi-variants/2026-08-07-white-background/20260807-102054-03-03-black-tall-narrow-f5c1e3b08d.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/lava-lamp-multi-variants/2026-08-07-white-background/20260807-102054-03-03-black-tall-narrow-f5c1e3b08d.jpg"
+  },
+  {
+    "label": "04-silver-tall-wide-base",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-08-07-lava-lamp-white-background/references/04-silver-tall-wide-base.jpg",
+    "repo_path": "refs/lava-lamp-multi-variants/2026-08-07-white-background/20260807-102054-04-04-silver-tall-wide-base-e777e302d8.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/lava-lamp-multi-variants/2026-08-07-white-background/20260807-102054-04-04-silver-tall-wide-base-e777e302d8.jpg"
+  },
+  {
+    "label": "05-silver-medium-wide-base",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-08-07-lava-lamp-white-background/references/05-silver-medium-wide-base.jpg",
+    "repo_path": "refs/lava-lamp-multi-variants/2026-08-07-white-background/20260807-102054-05-05-silver-medium-wide-base-0d79ced5eb.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/lava-lamp-multi-variants/2026-08-07-white-background/20260807-102054-05-05-silver-medium-wide-base-0d79ced5eb.jpg"
+  },
+  {
+    "label": "06-black-tall-wide-base",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-08-07-lava-lamp-white-background/references/06-black-tall-wide-base.jpg",
+    "repo_path": "refs/lava-lamp-multi-variants/2026-08-07-white-background/20260807-102054-06-06-black-tall-wide-base-90638f410c.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/lava-lamp-multi-variants/2026-08-07-white-background/20260807-102054-06-06-black-tall-wide-base-90638f410c.jpg"
+  }
+]
