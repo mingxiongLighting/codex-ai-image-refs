@@ -1,0 +1,20 @@
+[
+  {
+    "label": "primary-floor-lava-lamp",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-08-13-floor-standing-lava-lamp-no-model/source/01-落地蜡灯-主参考.png",
+    "repo_path": "refs/floor-lava-lamp-100cm-no-model/2026-08-13-scene-set/20260813-110646-01-primary-floor-lava-lamp-e46bdc9bfc.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/floor-lava-lamp-100cm-no-model/2026-08-13-scene-set/20260813-110646-01-primary-floor-lava-lamp-e46bdc9bfc.png"
+  },
+  {
+    "label": "secondary-floor-lava-lamp",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-08-13-floor-standing-lava-lamp-no-model/source/02-落地蜡灯-辅助参考.png",
+    "repo_path": "refs/floor-lava-lamp-100cm-no-model/2026-08-13-scene-set/20260813-110646-02-secondary-floor-lava-lamp-9854667257.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/floor-lava-lamp-100cm-no-model/2026-08-13-scene-set/20260813-110646-02-secondary-floor-lava-lamp-9854667257.png"
+  },
+  {
+    "label": "press-down-foot-switch",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-08-13-floor-standing-lava-lamp-no-model/source/03-按压式脚踏开关参考.jpg",
+    "repo_path": "refs/floor-lava-lamp-100cm-no-model/2026-08-13-scene-set/20260813-110646-03-press-down-foot-switch-3d0b08fb8a.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/floor-lava-lamp-100cm-no-model/2026-08-13-scene-set/20260813-110646-03-press-down-foot-switch-3d0b08fb8a.jpg"
+  }
+]
