@@ -1,0 +1,14 @@
+[
+  {
+    "label": "product-prototype",
+    "source": "/Users/fengzetong/Documents/color-box-production-workspace/projects/mx-7012n-pdf-style-background/inputs/mx-7012n-white-background-product.jpg",
+    "repo_path": "refs/mx-7012n/color-box-background-v1/20260825-165217-01-product-prototype-ec2d0d1aad.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/mx-7012n/color-box-background-v1/20260825-165217-01-product-prototype-ec2d0d1aad.jpg"
+  },
+  {
+    "label": "dark-style-reference",
+    "source": "/Users/fengzetong/Documents/color-box-production-workspace/projects/mx-7012n-pdf-style-background/inputs/mx-7012n-style-reference.png",
+    "repo_path": "refs/mx-7012n/color-box-background-v1/20260825-165217-02-dark-style-reference-53b26bf040.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/mx-7012n/color-box-background-v1/20260825-165217-02-dark-style-reference-53b26bf040.png"
+  }
+]
