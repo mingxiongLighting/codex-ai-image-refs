@@ -1,0 +1,14 @@
+[
+  {
+    "label": "white-product",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-09-10-mx3020-us-eu-images/references/MX-3020-白底参考.png",
+    "repo_path": "refs/mx-3020/20260910-us-eu/20260910-085445-01-white-product-9495870561.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/mx-3020/20260910-us-eu/20260910-085445-01-white-product-9495870561.png"
+  },
+  {
+    "label": "christmas-scene",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-09-10-mx3020-us-eu-images/references/MX-3020-场景参考.png",
+    "repo_path": "refs/mx-3020/20260910-us-eu/20260910-085445-02-christmas-scene-0981a0db0b.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/mx-3020/20260910-us-eu/20260910-085445-02-christmas-scene-0981a0db0b.png"
+  }
+]
