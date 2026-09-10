@@ -1,0 +1,26 @@
+[
+  {
+    "label": "white-button-product",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-09-10-mx3011l-eu-us-images/references/MX-3011L-带按键白底参考.jpg",
+    "repo_path": "refs/mx-3011l/20260910-eu-us/20260910-092928-01-white-button-product-48849a765f.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/mx-3011l/20260910-eu-us/20260910-092928-01-white-button-product-48849a765f.jpg"
+  },
+  {
+    "label": "user-blue-scene",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-09-10-mx3011l-eu-us-images/references/MX-3011L-用户场景参考.png",
+    "repo_path": "refs/mx-3011l/20260910-eu-us/20260910-092928-02-user-blue-scene-9a9df4b2ef.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/mx-3011l/20260910-eu-us/20260910-092928-02-user-blue-scene-9a9df4b2ef.png"
+  },
+  {
+    "label": "remote-control",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-09-10-mx3011l-eu-us-images/references/MX-3011L-遥控器实拍.jpg",
+    "repo_path": "refs/mx-3011l/20260910-eu-us/20260910-092928-03-remote-control-7005022851.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/mx-3011l/20260910-eu-us/20260910-092928-03-remote-control-7005022851.jpg"
+  },
+  {
+    "label": "silver-button-base",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-09-10-mx3011l-eu-us-images/references/MX-3011L-底座实拍.jpg",
+    "repo_path": "refs/mx-3011l/20260910-eu-us/20260910-092928-04-silver-button-base-eda76587fa.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/mx-3011l/20260910-eu-us/20260910-092928-04-silver-button-base-eda76587fa.jpg"
+  }
+]
