@@ -1,0 +1,14 @@
+[
+  {
+    "label": "us-main-edit-target",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-09-10-mx3011c-us-eu-images/revisions/plug-label-v2/references/us-main-edit-target.jpg",
+    "repo_path": "refs/mx-3011c/20260910-plug-label-v2/20260910-092301-01-us-main-edit-target-28f2761ee0.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/mx-3011c/20260910-plug-label-v2/20260910-092301-01-us-main-edit-target-28f2761ee0.jpg"
+  },
+  {
+    "label": "eu-main-edit-target",
+    "source": "/Users/fengzetong/Documents/Codex/2026-06-08/github/alibaba/workspace_root/06_work_requests/2026-09-10-mx3011c-us-eu-images/revisions/plug-label-v2/references/eu-main01-edit-target.jpg",
+    "repo_path": "refs/mx-3011c/20260910-plug-label-v2/20260910-092301-02-eu-main-edit-target-7ca5a16497.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/mx-3011c/20260910-plug-label-v2/20260910-092301-02-eu-main-edit-target-7ca5a16497.jpg"
+  }
+]
