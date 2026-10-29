@@ -1,0 +1,20 @@
+[
+  {
+    "label": "user-confirmed-cover-face",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-10-29_挂脖风扇电池拆装示意/参考图/06-盖板结构近景.jpg",
+    "repo_path": "refs/neck-fan/battery-manual-20261029-user-surface/20261029-183625-01-user-confirmed-cover-face-6989b87b2d.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/neck-fan/battery-manual-20261029-user-surface/20261029-183625-01-user-confirmed-cover-face-6989b87b2d.jpg"
+  },
+  {
+    "label": "open-battery-slot",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-10-29_挂脖风扇电池拆装示意/参考图/01-产品结构参考.jpg",
+    "repo_path": "refs/neck-fan/battery-manual-20261029-user-surface/20261029-183625-02-open-battery-slot-90ba0176e6.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/neck-fan/battery-manual-20261029-user-surface/20261029-183625-02-open-battery-slot-90ba0176e6.jpg"
+  },
+  {
+    "label": "overall-fan",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-10-29_挂脖风扇电池拆装示意/参考图/03-产品结构参考.jpg",
+    "repo_path": "refs/neck-fan/battery-manual-20261029-user-surface/20261029-183625-03-overall-fan-2c9adb3fb3.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/neck-fan/battery-manual-20261029-user-surface/20261029-183625-03-overall-fan-2c9adb3fb3.jpg"
+  }
+]
