@@ -1,0 +1,20 @@
+[
+  {
+    "label": "overall",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-10-29_挂脖风扇英文线稿参考/overall.png",
+    "repo_path": "refs/neck-fan/battery-english-exact-20261029/20261029-220505-01-overall-8ef6311016.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/neck-fan/battery-english-exact-20261029/20261029-220505-01-overall-8ef6311016.png"
+  },
+  {
+    "label": "battery-chamber",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-10-29_挂脖风扇英文线稿参考/battery-chamber.png",
+    "repo_path": "refs/neck-fan/battery-english-exact-20261029/20261029-220505-02-battery-chamber-9119c9fa58.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/neck-fan/battery-english-exact-20261029/20261029-220505-02-battery-chamber-9119c9fa58.png"
+  },
+  {
+    "label": "battery-cover",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-10-29_挂脖风扇英文线稿参考/battery-cover.png",
+    "repo_path": "refs/neck-fan/battery-english-exact-20261029/20261029-220505-03-battery-cover-17f4bcdd08.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/neck-fan/battery-english-exact-20261029/20261029-220505-03-battery-cover-17f4bcdd08.png"
+  }
+]
