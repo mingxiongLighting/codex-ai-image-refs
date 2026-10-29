@@ -1,0 +1,20 @@
+[
+  {
+    "label": "open-bay",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-10-29_挂脖风扇电池拆装示意/参考图/01-产品结构参考.jpg",
+    "repo_path": "refs/neck-fan/battery-manual-20261029/20261029-180223-01-open-bay-90ba0176e6.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/neck-fan/battery-manual-20261029/20261029-180223-01-open-bay-90ba0176e6.jpg"
+  },
+  {
+    "label": "fastening",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-10-29_挂脖风扇电池拆装示意/参考图/02-产品结构参考.jpg",
+    "repo_path": "refs/neck-fan/battery-manual-20261029/20261029-180223-02-fastening-6b1a3785b6.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/neck-fan/battery-manual-20261029/20261029-180223-02-fastening-6b1a3785b6.jpg"
+  },
+  {
+    "label": "whole-fan",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-10-29_挂脖风扇电池拆装示意/参考图/03-产品结构参考.jpg",
+    "repo_path": "refs/neck-fan/battery-manual-20261029/20261029-180223-03-whole-fan-2c9adb3fb3.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/neck-fan/battery-manual-20261029/20261029-180223-03-whole-fan-2c9adb3fb3.jpg"
+  }
+]
