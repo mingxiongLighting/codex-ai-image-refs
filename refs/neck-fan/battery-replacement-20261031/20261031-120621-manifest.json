@@ -1,0 +1,14 @@
+[
+  {
+    "label": "upper-recess-crop",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-10-31_电池上槽与接插件核对/user-battery-upper-recess.png",
+    "repo_path": "refs/neck-fan/battery-replacement-20261031/20261031-120621-01-upper-recess-crop-57733090f5.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/neck-fan/battery-replacement-20261031/20261031-120621-01-upper-recess-crop-57733090f5.png"
+  },
+  {
+    "label": "lower-stop-crop",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-10-31_电池上槽与接插件核对/user-battery-lower-stop.png",
+    "repo_path": "refs/neck-fan/battery-replacement-20261031/20261031-120621-02-lower-stop-crop-3b14b19257.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/neck-fan/battery-replacement-20261031/20261031-120621-02-lower-stop-crop-3b14b19257.png"
+  }
+]
