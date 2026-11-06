@@ -1,0 +1,26 @@
+[
+  {
+    "label": "en-main",
+    "source": "/Users/fengzetong/百度网盘/mx/MX-7013/2026-11-06_国际站国内站_滑动开关修正版/国际站图片/主图/06-供电开关.jpg",
+    "repo_path": "refs/mx-7013/sound-modes/20261106-120427-01-en-main-dabcbd7be7.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/mx-7013/sound-modes/20261106-120427-01-en-main-dabcbd7be7.jpg"
+  },
+  {
+    "label": "en-detail",
+    "source": "/Users/fengzetong/百度网盘/mx/MX-7013/2026-11-06_国际站国内站_滑动开关修正版/国际站图片/详情图/06-供电操作.jpg",
+    "repo_path": "refs/mx-7013/sound-modes/20261106-120427-02-en-detail-758861793d.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/mx-7013/sound-modes/20261106-120427-02-en-detail-758861793d.jpg"
+  },
+  {
+    "label": "cn-main",
+    "source": "/Users/fengzetong/百度网盘/mx/MX-7013/2026-11-06_国际站国内站_滑动开关修正版/1688国内站图片/主图/04-场景氛围.jpg",
+    "repo_path": "refs/mx-7013/sound-modes/20261106-120427-03-cn-main-d6c49d5417.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/mx-7013/sound-modes/20261106-120427-03-cn-main-d6c49d5417.jpg"
+  },
+  {
+    "label": "cn-detail",
+    "source": "/Users/fengzetong/百度网盘/mx/MX-7013/2026-11-06_国际站国内站_滑动开关修正版/1688国内站图片/详情图/06-供电场景.jpg",
+    "repo_path": "refs/mx-7013/sound-modes/20261106-120427-04-cn-detail-63ae29c2d7.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/mx-7013/sound-modes/20261106-120427-04-cn-detail-63ae29c2d7.jpg"
+  }
+]
