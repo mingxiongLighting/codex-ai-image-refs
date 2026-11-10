@@ -1,0 +1,14 @@
+[
+  {
+    "label": "jellyfish-exterior",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-11-10_水母灯火山替换/reference-1-jellyfish-single-body.jpg",
+    "repo_path": "refs/jellyfish-volcano-edit/2026-11-10/20261110-151540-01-jellyfish-exterior-a64bce9546.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/jellyfish-volcano-edit/2026-11-10/20261110-151540-01-jellyfish-exterior-a64bce9546.jpg"
+  },
+  {
+    "label": "volcano-contents",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-11-10_水母灯火山替换/reference-2-volcano-contents.png",
+    "repo_path": "refs/jellyfish-volcano-edit/2026-11-10/20261110-151540-02-volcano-contents-5fbad9cfc4.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/jellyfish-volcano-edit/2026-11-10/20261110-151540-02-volcano-contents-5fbad9cfc4.png"
+  }
+]
