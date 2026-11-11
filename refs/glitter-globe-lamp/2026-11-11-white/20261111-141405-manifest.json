@@ -1,0 +1,20 @@
+[
+  {
+    "label": "pink-product",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-11-11_球形灯三色白底图/参考图/01-粉色-产品参考.jpg",
+    "repo_path": "refs/glitter-globe-lamp/2026-11-11-white/20261111-141405-01-pink-product-01dd9dca91.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/glitter-globe-lamp/2026-11-11-white/20261111-141405-01-pink-product-01dd9dca91.jpg"
+  },
+  {
+    "label": "blue-product",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-11-11_球形灯三色白底图/参考图/02-蓝色-产品参考.jpg",
+    "repo_path": "refs/glitter-globe-lamp/2026-11-11-white/20261111-141405-02-blue-product-f7879fe146.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/glitter-globe-lamp/2026-11-11-white/20261111-141405-02-blue-product-f7879fe146.jpg"
+  },
+  {
+    "label": "white-product",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-11-11_球形灯三色白底图/参考图/03-白光-产品参考.jpg",
+    "repo_path": "refs/glitter-globe-lamp/2026-11-11-white/20261111-141405-03-white-product-bc9c795a48.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/glitter-globe-lamp/2026-11-11-white/20261111-141405-03-white-product-bc9c795a48.jpg"
+  }
+]
