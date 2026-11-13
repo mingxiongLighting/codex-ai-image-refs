@@ -1,0 +1,20 @@
+[
+  {
+    "label": "white-size",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-11-13_水母灯尺寸与场景/白底尺寸_a2.task-219753155.png",
+    "repo_path": "refs/jellyfish-white-base/2026-11-13-pose-edit/20261113-141256-01-white-size-72670fc38f.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/jellyfish-white-base/2026-11-13-pose-edit/20261113-141256-01-white-size-72670fc38f.png"
+  },
+  {
+    "label": "warm-scene",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-11-13_水母灯尺寸与场景/暖光卧室_a2.task-219753151.png",
+    "repo_path": "refs/jellyfish-white-base/2026-11-13-pose-edit/20261113-141256-02-warm-scene-8f8806f8cf.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/jellyfish-white-base/2026-11-13-pose-edit/20261113-141256-02-warm-scene-8f8806f8cf.png"
+  },
+  {
+    "label": "purple-scene",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-11-13_水母灯尺寸与场景/紫光阅读角_a1.task-219753153.png",
+    "repo_path": "refs/jellyfish-white-base/2026-11-13-pose-edit/20261113-141256-03-purple-scene-41368b90ba.png",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/jellyfish-white-base/2026-11-13-pose-edit/20261113-141256-03-purple-scene-41368b90ba.png"
+  }
+]
