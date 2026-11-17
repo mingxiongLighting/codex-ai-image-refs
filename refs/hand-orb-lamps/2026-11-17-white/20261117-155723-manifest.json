@@ -1,0 +1,26 @@
+[
+  {
+    "label": "black-hand-original",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-11-17_双款托球灯白底图/01_产品裁切.jpg",
+    "repo_path": "refs/hand-orb-lamps/2026-11-17-white/20261117-155723-01-black-hand-original-0260977a33.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/hand-orb-lamps/2026-11-17-white/20261117-155723-01-black-hand-original-0260977a33.jpg"
+  },
+  {
+    "label": "black-hand-exposure",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-11-17_双款托球灯白底图/01_结构提亮.jpg",
+    "repo_path": "refs/hand-orb-lamps/2026-11-17-white/20261117-155723-02-black-hand-exposure-fbc4445074.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/hand-orb-lamps/2026-11-17-white/20261117-155723-02-black-hand-exposure-fbc4445074.jpg"
+  },
+  {
+    "label": "red-gold-double-hand",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-11-17_双款托球灯白底图/02_红金款裁切.jpg",
+    "repo_path": "refs/hand-orb-lamps/2026-11-17-white/20261117-155723-03-red-gold-double-hand-5af37d504b.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/hand-orb-lamps/2026-11-17-white/20261117-155723-03-red-gold-double-hand-5af37d504b.jpg"
+  },
+  {
+    "label": "blue-purple-double-hand",
+    "source": "/Users/fengzetong/百度网盘/Codex项目文件/alibaba/过程文件/2026-11-17_双款托球灯白底图/02_蓝紫款裁切.jpg",
+    "repo_path": "refs/hand-orb-lamps/2026-11-17-white/20261117-155723-04-blue-purple-double-hand-719de08b41.jpg",
+    "url": "https://raw.githubusercontent.com/mingxiongLighting/codex-ai-image-refs/main/refs/hand-orb-lamps/2026-11-17-white/20261117-155723-04-blue-purple-double-hand-719de08b41.jpg"
+  }
+]
